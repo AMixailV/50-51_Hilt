@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ru.mixail_akulov.a50_51_hilt.app.screens.main.MainActivityViewModel</OriginalElement>
+  <nodes>
+    <node x="6376.175067204309" y="1741.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel</node>
+    <node x="4681.4375" y="2157.5">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsViewModel</node>
+    <node x="3884.7739247311897" y="925.5">ru.mixail_akulov.a50_51_hilt.app.model.settings.AppSettings</node>
+    <node x="2301.1874999999995" y="1807.0">ru.mixail_akulov.a50_51_hilt.sources.boxes.entities.GetBoxResponseEntity</node>
+    <node x="1056.9999999999995" y="914.0">ru.mixail_akulov.a50_51_hilt.app.model.EmptyFieldException</node>
+    <node x="6712.046975806452" y="2215.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel.Companion</node>
+    <node x="7469.175067204309" y="2136.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignInViewModel.State</node>
+    <node x="2547.463642473118" y="640.0">ru.mixail_akulov.a50_51_hilt.app.model.Field</node>
+    <node x="6742.175067204309" y="1840.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.profile.ProfileViewModel</node>
+    <node x="6778.675067204309" y="1522.0">ru.mixail_akulov.a50_51_hilt.app.utils.logger.LogCatLogger</node>
+    <node x="5213.0625" y="881.0">ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyFlowSubject</node>
+    <node x="899.9250672043081" y="640.5">ru.mixail_akulov.a50_51_hilt.app.model.AppException</node>
+    <node x="5574.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.App</node>
+    <node x="4569.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.SplashActivity</node>
+    <node x="5521.815591397857" y="2418.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignInFragment</node>
+    <node x="4959.4375" y="-116.0">ru.mixail_akulov.a50_51_hilt.app.model.Error</node>
+    <node x="5194.9375" y="73.0">ru.mixail_akulov.a50_51_hilt.app.model.Result</node>
+    <node x="5275.4375" y="-116.0">ru.mixail_akulov.a50_51_hilt.app.model.Success</node>
+    <node x="5939.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyFlowSubjectKt</node>
+    <node x="4346.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.di.StuffsModule</node>
+    <node x="2160.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.screens.splash.SplashFragment</node>
+    <node x="2129.8124999999995" y="1227.0">ru.mixail_akulov.a50_51_hilt.app.model.ExceptionsKt</node>
+    <node x="3789.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.TabsFragment</node>
+    <node x="2868.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.sources.base.RetrofitConfig</node>
+    <node x="5148.0625" y="552.0">ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject</node>
+    <node x="4839.105376344092" y="1840.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.DashboardViewModel</node>
+    <node x="3662.338642473118" y="1216.0">ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesSource</node>
+    <node x="4069.7739247311893" y="925.5">ru.mixail_akulov.a50_51_hilt.app.model.AccountAlreadyExistsException</node>
+    <node x="4112.5625" y="2407.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpFragment</node>
+    <node x="5255.3125" y="249.0">ru.mixail_akulov.a50_51_hilt.app.model.Empty</node>
+    <node x="2794.1489247311897" y="1818.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.BoxSettingsDiffCallback</node>
+    <node x="6162.065591397857" y="2202.5">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxViewModel.Factory</node>
+    <node x="5003.815591397857" y="2418.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.profile.EditProfileFragment</node>
+    <node x="5192.772043010759" y="2157.5">ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseFragment</node>
+    <node x="6150.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.Const</node>
+    <node x="493.99999999999955" y="925.5">ru.mixail_akulov.a50_51_hilt.app.model.ParseBackendResponseException</node>
+    <node x="2649.8124999999995" y="1193.5">ru.mixail_akulov.a50_51_hilt.app.model.boxes.entities.Box</node>
+    <node x="207.0" y="2967.5">ru.mixail_akulov.a50_51_hilt.app.model.accounts.entities.Account.Companion</node>
+    <node x="1126.6249999999995" y="1488.5">ru.mixail_akulov.a50_51_hilt.sources.accounts.RetrofitAccountsSource</node>
+    <node x="6613.175067204309" y="1216.0">ru.mixail_akulov.a50_51_hilt.app.utils.logger.Logger</node>
+    <node x="4788.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.utils.ViewModelExtensionsKt</node>
+    <node x="3462.8989247311897" y="1545.5">ru.mixail_akulov.a50_51_hilt.app.model.settings.SharedPreferencesAppSettings.Companion</node>
+    <node x="7413.175067204309" y="1730.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignInViewModel</node>
+    <node x="2444.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.di.SourcesModule</node>
+    <node x="4050.5625" y="2146.5">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter</node>
+    <node x="4053.8989247311893" y="1521.5">ru.mixail_akulov.a50_51_hilt.app.screens.main.MainActivityViewModel</node>
+    <node x="352.0" y="2899.0">ru.mixail_akulov.a50_51_hilt.sources.accounts.entities.GetAccountResponseEntity</node>
+    <node x="4243.980376344092" y="1852.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter.Listener</node>
+    <node x="5348.3125" y="368.0">ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.ListenerRecord</node>
+    <node x="1509.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.di.NetworkModule</node>
+    <node x="5021.3125" y="357.0">ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.FutureRecord</node>
+    <node x="275.25" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.model.accounts.entities.Account</node>
+    <node x="-187.0" y="925.5">ru.mixail_akulov.a50_51_hilt.app.model.PasswordMismatchException</node>
+    <node x="4372.773924731189" y="925.5">ru.mixail_akulov.a50_51_hilt.app.model.InvalidCredentialsException</node>
+    <node x="5123.4375" y="-104.5">ru.mixail_akulov.a50_51_hilt.app.model.Pending</node>
+    <node x="806.9999999999995" y="925.5">ru.mixail_akulov.a50_51_hilt.app.model.ConnectionException</node>
+    <node x="215.44469086021536" y="1194.0">ru.mixail_akulov.a50_51_hilt.sources.accounts.AccountsApi</node>
+    <node x="-74.5553091397851" y="1171.0">ru.mixail_akulov.a50_51_hilt.app.model.accounts.entities.SignUpData</node>
+    <node x="3693.8989247311897" y="1521.5">ru.mixail_akulov.a50_51_hilt.app.screens.splash.SplashViewModel</node>
+    <node x="1267.8124999999995" y="1204.5">ru.mixail_akulov.a50_51_hilt.sources.accounts.entities.SignInRequestEntity</node>
+    <node x="3366.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.di.SettingsModule</node>
+    <node x="4744.815591397857" y="2473.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsFragment</node>
+    <node x="6779.897043010759" y="2451.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.DashboardFragment</node>
+    <node x="166.49999999999955" y="914.0">ru.mixail_akulov.a50_51_hilt.app.model.BackendException</node>
+    <node x="1919.0" y="2833.0">ru.mixail_akulov.a50_51_hilt.app.utils.ViewModelFactoryKt</node>
+    <node x="2835.8124999999995" y="1216.0">ru.mixail_akulov.a50_51_hilt.sources.boxes.BoxesApi</node>
+    <node x="2382.8124999999995" y="1215.5">ru.mixail_akulov.a50_51_hilt.sources.boxes.entities.UpdateBoxRequestEntity</node>
+    <node x="198.08864247311794" y="1521.5">ru.mixail_akulov.a50_51_hilt.sources.base.BaseRetrofitSource.ErrorResponseBody</node>
+    <node x="1903.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.utils.ViewModelFactory</node>
+    <node x="5262.815591397857" y="2462.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.profile.ProfileFragment</node>
+    <node x="5227.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.utils.FragmentExtensionsKt</node>
+    <node x="3101.1489247311897" y="925.5">ru.mixail_akulov.a50_51_hilt.app.model.AuthException</node>
+    <node x="7063.147043010759" y="2507.0">ru.mixail_akulov.a50_51_hilt.app.views.DashboardItemView.Companion</node>
+    <node x="5703.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubjectKt</node>
+    <node x="1523.8124999999995" y="1193.5">ru.mixail_akulov.a50_51_hilt.sources.accounts.entities.SignUpRequestEntity</node>
+    <node x="7067.175067204309" y="1763.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.profile.EditProfileViewModel</node>
+    <node x="252.71364247311794" y="2495.5">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter.Holder</node>
+    <node x="4073.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.sources.accounts.entities.SignInResponseEntity</node>
+    <node x="2491.0239247311897" y="892.5">ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsSource</node>
+    <node x="735.0" y="2833.0">ru.mixail_akulov.a50_51_hilt.app.utils.EventKt</node>
+    <node x="4031.713642473118" y="1138.0">ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository</node>
+    <node x="604.4446908602154" y="1193.0">ru.mixail_akulov.a50_51_hilt.sources.base.BaseRetrofitSource</node>
+    <node x="5821.815591397857" y="2418.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxFragment</node>
+    <node x="3030.8989247311897" y="1510.5">ru.mixail_akulov.a50_51_hilt.app.model.boxes.entities.BoxAndSettings</node>
+    <node x="5889.065591397857" y="2114.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel.State</node>
+    <node x="3129.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.model.boxes.entities.BoxesFilter</node>
+    <node x="6339.675067204309" y="1444.0">ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel</node>
+    <node x="1822.8124999999995" y="1215.5">ru.mixail_akulov.a50_51_hilt.sources.accounts.entities.UpdateUsernameRequestEntity</node>
+    <node x="3222.8124999999995" y="1215.5">ru.mixail_akulov.a50_51_hilt.app.model.settings.SharedPreferencesAppSettings</node>
+    <node x="-187.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.screens.main.MainActivity</node>
+    <node x="1195.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.views.ResultView</node>
+    <node x="5858.022043010759" y="1851.5">ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxViewModel</node>
+    <node x="885.0" y="2706.0">ru.mixail_akulov.a50_51_hilt.app.utils.Event</node>
+    <node x="4757.855376344092" y="1488.5">ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository</node>
+    <node x="6994.147043010759" y="2124.5">ru.mixail_akulov.a50_51_hilt.app.views.DashboardItemView</node>
+    <node x="2503.3124999999995" y="1510.5">ru.mixail_akulov.a50_51_hilt.sources.boxes.RetrofitBoxesSource</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.Result" relationship="TO_ONE">
+      <point x="-111.25000000000023" y="-71.5" />
+      <point x="4869.105376344092" y="1422.0" />
+      <point x="4775.6875" y="1422.0" />
+      <point x="4775.6875" y="227.0" />
+      <point x="5090.6875" y="227.0" />
+      <point x="5090.6875" y="217.0" />
+      <point x="5228.4375" y="217.0" />
+      <point x="-67.0" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyFlowSubject" relationship="CREATE">
+      <point x="-80.5" y="-116.0" />
+      <point x="4112.213642473118" y="1116.0" />
+      <point x="4122.382190860215" y="1116.0" />
+      <point x="4122.382190860215" y="1106.0" />
+      <point x="5340.0625" y="1106.0" />
+      <point x="5340.0625" y="1096.0" />
+      <point x="5395.3125" y="1096.0" />
+      <point x="60.75" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.AuthException" target="ru.mixail_akulov.a50_51_hilt.app.model.AppException" relationship="GENERALIZATION">
+      <point x="0.0" y="-27.0" />
+      <point x="3198.6489247311897" y="859.0" />
+      <point x="996.4250672043081" y="859.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyFlowSubject" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" relationship="TO_ONE">
+      <point x="60.75" y="-71.5" />
+      <point x="5395.3125" y="859.0" />
+      <point x="5427.8125" y="859.0" />
+      <point x="93.25" y="137.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.AuthException" relationship="CREATE">
+      <point x="-80.5" y="-116.0" />
+      <point x="4112.213642473118" y="1116.0" />
+      <point x="4122.382190860215" y="1116.0" />
+      <point x="4122.382190860215" y="1066.0" />
+      <point x="2444.2303763440923" y="1066.0" />
+      <point x="2444.2303763440923" y="1046.0" />
+      <point x="3198.6489247311897" y="1046.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.accounts.RetrofitAccountsSource" target="ru.mixail_akulov.a50_51_hilt.sources.accounts.entities.SignUpRequestEntity" relationship="CREATE">
+      <point x="97.875" y="-71.5" />
+      <point x="1354.9999999999995" y="1422.0" />
+      <point x="1509.0624999999995" y="1422.0" />
+      <point x="1509.0624999999995" y="1402.0" />
+      <point x="1663.3124999999995" y="1402.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.base.BaseRetrofitSource" target="ru.mixail_akulov.a50_51_hilt.app.model.BackendException" relationship="CREATE">
+      <point x="0.0" y="-61.0" />
+      <point x="769.9446908602154" y="1106.0" />
+      <point x="271.49999999999955" y="1106.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.accounts.RetrofitAccountsSource" target="ru.mixail_akulov.a50_51_hilt.sources.accounts.AccountsApi" relationship="TO_ONE">
+      <point x="-97.875" y="-71.5" />
+      <point x="1159.2499999999995" y="1402.0" />
+      <point x="399.94469086021536" y="1402.0" />
+      <point x="0.0" y="60.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.boxes.RetrofitBoxesSource" target="ru.mixail_akulov.a50_51_hilt.sources.boxes.entities.UpdateBoxRequestEntity" relationship="CREATE">
+      <point x="-42.625" y="-49.5" />
+      <point x="2631.1874999999995" y="1392.0" />
+      <point x="2506.3124999999995" y="1392.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.FutureRecord" relationship="TO_MANY">
+      <point x="0.0" y="-137.5" />
+      <point x="5334.5625" y="510.0" />
+      <point x="5174.8125" y="510.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyFlowSubject" relationship="TO_ONE">
+      <point x="-111.25000000000023" y="-71.5" />
+      <point x="4869.105376344092" y="1422.0" />
+      <point x="4775.6875" y="1422.0" />
+      <point x="4775.6875" y="1392.0" />
+      <point x="5329.0625" y="1392.0" />
+      <point x="5329.0625" y="1086.0" />
+      <point x="5273.8125" y="1086.0" />
+      <point x="-60.75" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpFragment" target="ru.mixail_akulov.a50_51_hilt.app.model.accounts.entities.SignUpData" relationship="CREATE">
+      <point x="-77.0" y="-127.0" />
+      <point x="4189.5625" y="2366.0" />
+      <point x="404.58864247311794" y="2366.0" />
+      <point x="404.58864247311794" y="1412.0" />
+      <point x="60.444690860214905" y="1412.0" />
+      <point x="0.0" y="83.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.boxes.RetrofitBoxesSource" target="ru.mixail_akulov.a50_51_hilt.sources.boxes.BoxesApi" relationship="TO_ONE">
+      <point x="42.625" y="-49.5" />
+      <point x="2716.4374999999995" y="1412.0" />
+      <point x="3019.3124999999995" y="1412.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.boxes.RetrofitBoxesSource" target="ru.mixail_akulov.a50_51_hilt.sources.base.BaseRetrofitSource" relationship="GENERALIZATION">
+      <point x="-127.875" y="-49.5" />
+      <point x="2545.9374999999995" y="1412.0" />
+      <point x="1321.8124999999995" y="1412.0" />
+      <point x="1321.8124999999995" y="1392.0" />
+      <point x="852.6946908602154" y="1392.0" />
+      <point x="82.75" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.Pending" target="ru.mixail_akulov.a50_51_hilt.app.model.Result" relationship="GENERALIZATION">
+      <point x="33.0" y="27.0" />
+      <point x="5222.4375" y="-18.0" />
+      <point x="5345.6875" y="-18.0" />
+      <point x="50.25" y="-61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter.Listener" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter" relationship="INNER_CLASS">
+      <point x="0.0" y="38.0" />
+      <point x="4324.980376344092" y="2092.0" />
+      <point x="4290.5625" y="2092.0" />
+      <point x="96.0" y="-83.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsFragment" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseFragment" relationship="GENERALIZATION">
+      <point x="59.75" y="-61.0" />
+      <point x="4924.065591397857" y="2376.0" />
+      <point x="5312.272043010759" y="2376.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxFragment" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseFragment" relationship="GENERALIZATION">
+      <point x="-59.75" y="-116.0" />
+      <point x="5881.565591397857" y="2376.0" />
+      <point x="5312.272043010759" y="2376.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel" target="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" relationship="TO_ONE">
+      <point x="0.0" y="-116.0" />
+      <point x="6549.175067204309" y="1402.0" />
+      <point x="4192.713642473118" y="1402.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.base.BaseRetrofitSource" target="ru.mixail_akulov.a50_51_hilt.app.model.ConnectionException" relationship="CREATE">
+      <point x="0.0" y="-61.0" />
+      <point x="769.9446908602154" y="1106.0" />
+      <point x="921.9999999999995" y="1106.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.logger.LogCatLogger" target="ru.mixail_akulov.a50_51_hilt.app.utils.logger.Logger" relationship="REALIZATION">
+      <point x="0.0" y="-38.0" />
+      <point x="6880.175067204309" y="1422.0" />
+      <point x="6765.425067204309" y="1422.0" />
+      <point x="50.75" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.FutureRecord" relationship="CREATE">
+      <point x="-124.33333333333303" y="-137.5" />
+      <point x="5210.229166666667" y="530.0" />
+      <point x="4953.3125" y="530.0" />
+      <point x="4953.3125" y="520.0" />
+      <point x="5072.479166666666" y="520.0" />
+      <point x="-102.33333333333348" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel.Companion" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel" relationship="INNER_CLASS">
+      <point x="0.0" y="-14.5" />
+      <point x="6774.546975806452" y="2092.0" />
+      <point x="6635.675067204309" y="2092.0" />
+      <point x="86.5" y="149.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsFragment" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter" relationship="CREATE">
+      <point x="-59.75" y="-61.0" />
+      <point x="4804.565591397857" y="2386.0" />
+      <point x="4266.5625" y="2386.0" />
+      <point x="72.0" y="83.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.ListenerRecord" relationship="TO_MANY">
+      <point x="0.0" y="-137.5" />
+      <point x="5334.5625" y="510.0" />
+      <point x="5479.3125" y="510.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.profile.ProfileFragment" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseFragment" relationship="GENERALIZATION">
+      <point x="-4.547473508864641E-13" y="-72.0" />
+      <point x="5382.315591397856" y="2376.0" />
+      <point x="5312.272043010759" y="2376.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.InvalidCredentialsException" target="ru.mixail_akulov.a50_51_hilt.app.model.AppException" relationship="GENERALIZATION">
+      <point x="0.0" y="-27.0" />
+      <point x="4502.773924731189" y="859.0" />
+      <point x="996.4250672043081" y="859.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignInFragment" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseFragment" relationship="GENERALIZATION">
+      <point x="0.0" y="-116.0" />
+      <point x="5661.815591397857" y="2376.0" />
+      <point x="5312.272043010759" y="2376.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.accounts.RetrofitAccountsSource" target="ru.mixail_akulov.a50_51_hilt.sources.accounts.entities.UpdateUsernameRequestEntity" relationship="CREATE">
+      <point x="97.875" y="-71.5" />
+      <point x="1354.9999999999995" y="1422.0" />
+      <point x="1509.0624999999995" y="1422.0" />
+      <point x="1509.0624999999995" y="1402.0" />
+      <point x="1966.3124999999995" y="1402.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.profile.EditProfileViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel" relationship="GENERALIZATION">
+      <point x="0.0" y="-127.0" />
+      <point x="7230.175067204309" y="1698.0" />
+      <point x="6549.175067204309" y="1698.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.ParseBackendResponseException" target="ru.mixail_akulov.a50_51_hilt.app.model.AppException" relationship="GENERALIZATION">
+      <point x="-4.547473508864641E-13" y="-27.0" />
+      <point x="640.4999999999991" y="859.0" />
+      <point x="996.4250672043081" y="859.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.BoxSettingsDiffCallback" relationship="CREATE">
+      <point x="-96.0" y="-83.0" />
+      <point x="4098.5625" y="2092.0" />
+      <point x="2988.6489247311897" y="2092.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel" target="ru.mixail_akulov.a50_51_hilt.app.utils.logger.Logger" relationship="TO_ONE">
+      <point x="0.0" y="-116.0" />
+      <point x="6549.175067204309" y="1422.0" />
+      <point x="6663.925067204309" y="1422.0" />
+      <point x="-50.75" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.boxes.entities.BoxAndSettings" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.entities.Box" relationship="TO_ONE">
+      <point x="0.0" y="-49.5" />
+      <point x="3139.3989247311897" y="1402.0" />
+      <point x="2774.3124999999995" y="1402.0" />
+      <point x="41.5" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.FutureRecord" target="ru.mixail_akulov.a50_51_hilt.app.model.Result" relationship="TO_ONE">
+      <point x="-76.75" y="-60.5" />
+      <point x="5098.0625" y="325.0" />
+      <point x="5090.6875" y="325.0" />
+      <point x="5090.6875" y="217.0" />
+      <point x="5228.4375" y="217.0" />
+      <point x="-67.0" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxViewModel" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository" relationship="TO_ONE">
+      <point x="-99.5" y="-38.5" />
+      <point x="5957.522043010759" y="1708.0" />
+      <point x="4980.355376344092" y="1708.0" />
+      <point x="0.0" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.Success" target="ru.mixail_akulov.a50_51_hilt.app.model.Result" relationship="GENERALIZATION">
+      <point x="32.25" y="38.5" />
+      <point x="5372.1875" y="-18.0" />
+      <point x="5345.6875" y="-18.0" />
+      <point x="50.25" y="-61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.EventKt" target="ru.mixail_akulov.a50_51_hilt.app.utils.Event" relationship="CREATE">
+      <point x="0.0" y="-71.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.DashboardViewModel" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository" relationship="TO_ONE">
+      <point x="-101.0" y="-50.0" />
+      <point x="4940.105376344092" y="1708.0" />
+      <point x="4980.355376344092" y="1708.0" />
+      <point x="0.0" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.DashboardFragment" target="ru.mixail_akulov.a50_51_hilt.app.views.DashboardItemView" relationship="CREATE">
+      <point x="59.75" y="-83.0" />
+      <point x="6959.147043010759" y="2386.0" />
+      <point x="7075.897043010759" y="2386.0" />
+      <point x="-81.75" y="105.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.base.BaseRetrofitSource.ErrorResponseBody" target="ru.mixail_akulov.a50_51_hilt.sources.base.BaseRetrofitSource" relationship="INNER_CLASS">
+      <point x="0.0" y="-38.5" />
+      <point x="296.08864247311794" y="1422.0" />
+      <point x="687.1946908602154" y="1422.0" />
+      <point x="-82.75" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.MainActivityViewModel" target="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" relationship="TO_ONE">
+      <point x="0.0" y="-38.5" />
+      <point x="4199.898924731189" y="1422.0" />
+      <point x="4192.713642473118" y="1422.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter.Holder" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter" relationship="INNER_CLASS">
+      <point x="-39.25" y="-38.5" />
+      <point x="291.96364247311794" y="2376.0" />
+      <point x="4122.5625" y="2376.0" />
+      <point x="-72.0" y="83.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel.State" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel" relationship="INNER_CLASS">
+      <point x="63.25" y="-115.5" />
+      <point x="6078.815591397857" y="2092.0" />
+      <point x="6635.675067204309" y="2092.0" />
+      <point x="86.5" y="149.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.AccountAlreadyExistsException" relationship="CREATE">
+      <point x="-80.5" y="-116.0" />
+      <point x="4112.213642473118" y="1116.0" />
+      <point x="4122.382190860215" y="1116.0" />
+      <point x="4122.382190860215" y="1086.0" />
+      <point x="4211.273924731189" y="1086.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.ViewModelFactoryKt" target="ru.mixail_akulov.a50_51_hilt.app.utils.ViewModelFactory" relationship="CREATE">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.entities.BoxAndSettings" relationship="TO_MANY">
+      <point x="0.0" y="-83.0" />
+      <point x="4194.5625" y="2082.0" />
+      <point x="3193.6489247311897" y="2082.0" />
+      <point x="54.25" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyFlowSubject" relationship="CREATE">
+      <point x="111.24999999999977" y="-71.5" />
+      <point x="5091.605376344092" y="1422.0" />
+      <point x="5470.270833333333" y="1422.0" />
+      <point x="5470.270833333333" y="1392.0" />
+      <point x="5340.0625" y="1392.0" />
+      <point x="5340.0625" y="1096.0" />
+      <point x="5395.3125" y="1096.0" />
+      <point x="60.75" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.entities.SignUpData" target="ru.mixail_akulov.a50_51_hilt.app.model.PasswordMismatchException" relationship="CREATE">
+      <point x="0.0" y="-83.0" />
+      <point x="60.444690860214905" y="1106.0" />
+      <point x="-69.0" y="1106.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.entities.SignUpData" target="ru.mixail_akulov.a50_51_hilt.app.model.EmptyFieldException" relationship="CREATE">
+      <point x="0.0" y="-83.0" />
+      <point x="60.444690860214905" y="1116.0" />
+      <point x="1156.4999999999995" y="1116.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" target="ru.mixail_akulov.a50_51_hilt.app.model.Empty" relationship="CREATE">
+      <point x="-124.33333333333303" y="-137.5" />
+      <point x="5210.229166666667" y="530.0" />
+      <point x="4953.3125" y="530.0" />
+      <point x="4953.3125" y="520.0" />
+      <point x="5010.8125" y="520.0" />
+      <point x="5010.8125" y="335.0" />
+      <point x="5315.8125" y="335.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel.State" relationship="CREATE">
+      <point x="-86.5" y="149.0" />
+      <point x="6462.675067204309" y="2082.0" />
+      <point x="5952.315591397857" y="2082.0" />
+      <point x="-63.25" y="-115.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter.Listener" relationship="TO_ONE">
+      <point x="0.0" y="-83.0" />
+      <point x="4194.5625" y="2082.0" />
+      <point x="4270.980376344092" y="2082.0" />
+      <point x="-54.0" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.PasswordMismatchException" target="ru.mixail_akulov.a50_51_hilt.app.model.AppException" relationship="GENERALIZATION">
+      <point x="0.0" y="-27.0" />
+      <point x="-69.0" y="859.0" />
+      <point x="996.4250672043081" y="859.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.FutureRecord" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" relationship="INNER_CLASS">
+      <point x="102.33333333333348" y="60.5" />
+      <point x="5277.145833333333" y="500.0" />
+      <point x="5489.3125" y="500.0" />
+      <point x="5489.3125" y="530.0" />
+      <point x="5458.895833333333" y="530.0" />
+      <point x="124.33333333333303" y="-137.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsViewModel" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository" relationship="TO_ONE">
+      <point x="0.0" y="-72.0" />
+      <point x="4878.9375" y="2092.0" />
+      <point x="4828.605376344092" y="2092.0" />
+      <point x="4828.605376344092" y="1708.0" />
+      <point x="4980.355376344092" y="1708.0" />
+      <point x="0.0" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter.Holder" relationship="CREATE">
+      <point x="72.0" y="83.0" />
+      <point x="4266.5625" y="2386.0" />
+      <point x="370.46364247311794" y="2386.0" />
+      <point x="39.25" y="-38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignInViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel" relationship="GENERALIZATION">
+      <point x="0.0" y="-160.0" />
+      <point x="7586.175067204309" y="1698.0" />
+      <point x="6549.175067204309" y="1698.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.boxes.entities.GetBoxResponseEntity" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.entities.BoxAndSettings" relationship="CREATE">
+      <point x="0.0" y="-83.0" />
+      <point x="2467.1874999999995" y="1698.0" />
+      <point x="3085.1489247311897" y="1698.0" />
+      <point x="-54.25" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.profile.ProfileViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.0" />
+      <point x="6894.675067204309" y="1698.0" />
+      <point x="6549.175067204309" y="1698.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel" relationship="GENERALIZATION">
+      <point x="131.66666666666674" y="-72.0" />
+      <point x="5010.604166666666" y="2092.0" />
+      <point x="5304.523924731189" y="2092.0" />
+      <point x="5304.523924731189" y="1698.0" />
+      <point x="6549.175067204309" y="1698.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.Result" target="ru.mixail_akulov.a50_51_hilt.app.model.Empty" relationship="CREATE">
+      <point x="0.0" y="61.0" />
+      <point x="5295.4375" y="227.0" />
+      <point x="5285.5625" y="227.0" />
+      <point x="-30.25" y="-27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.profile.EditProfileFragment" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseFragment" relationship="GENERALIZATION">
+      <point x="0.0" y="-116.0" />
+      <point x="5123.315591397857" y="2376.0" />
+      <point x="5312.272043010759" y="2376.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.entities.Account.Companion" target="ru.mixail_akulov.a50_51_hilt.app.model.accounts.entities.Account" relationship="INNER_CLASS">
+      <point x="0.0" y="-14.5" />
+      <point x="269.5" y="2874.0" />
+      <point x="335.25" y="2874.0" />
+      <point x="-60.0" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.accounts.RetrofitAccountsSource" target="ru.mixail_akulov.a50_51_hilt.sources.base.BaseRetrofitSource" relationship="GENERALIZATION">
+      <point x="32.625" y="-71.5" />
+      <point x="1289.7499999999995" y="1412.0" />
+      <point x="1321.8124999999995" y="1412.0" />
+      <point x="1321.8124999999995" y="1392.0" />
+      <point x="852.6946908602154" y="1392.0" />
+      <point x="82.75" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.FutureRecord" target="ru.mixail_akulov.a50_51_hilt.app.model.Empty" relationship="CREATE">
+      <point x="76.75" y="-60.5" />
+      <point x="5251.5625" y="335.0" />
+      <point x="5315.8125" y="335.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.DashboardFragment" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseFragment" relationship="GENERALIZATION">
+      <point x="-59.75" y="-83.0" />
+      <point x="6839.647043010759" y="2376.0" />
+      <point x="5312.272043010759" y="2376.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.boxes.RetrofitBoxesSource" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesSource" relationship="REALIZATION">
+      <point x="127.875" y="-49.5" />
+      <point x="2801.6874999999995" y="1422.0" />
+      <point x="3747.588642473118" y="1422.0" />
+      <point x="-85.25" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.Result" target="ru.mixail_akulov.a50_51_hilt.app.model.Success" relationship="CREATE">
+      <point x="-50.25" y="-61.0" />
+      <point x="5245.1875" y="52.0" />
+      <point x="4877.6875" y="52.0" />
+      <point x="4877.6875" y="42.0" />
+      <point x="4953.3125" y="42.0" />
+      <point x="4953.3125" y="-8.0" />
+      <point x="5307.6875" y="-8.0" />
+      <point x="-32.25" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.AccountAlreadyExistsException" target="ru.mixail_akulov.a50_51_hilt.app.model.AppException" relationship="GENERALIZATION">
+      <point x="0.0" y="-27.0" />
+      <point x="4211.273924731189" y="859.0" />
+      <point x="996.4250672043081" y="859.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.Error" target="ru.mixail_akulov.a50_51_hilt.app.model.Result" relationship="GENERALIZATION">
+      <point x="36.0" y="38.5" />
+      <point x="5067.4375" y="-18.0" />
+      <point x="5345.6875" y="-18.0" />
+      <point x="50.25" y="-61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.EmptyFieldException" relationship="CREATE">
+      <point x="-80.5" y="-116.0" />
+      <point x="4112.213642473118" y="1116.0" />
+      <point x="4122.382190860215" y="1116.0" />
+      <point x="4122.382190860215" y="1076.0" />
+      <point x="1156.4999999999995" y="1076.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.splash.SplashViewModel" target="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" relationship="TO_ONE">
+      <point x="0.0" y="-38.5" />
+      <point x="3863.8989247311897" y="1422.0" />
+      <point x="4192.713642473118" y="1422.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.settings.SharedPreferencesAppSettings.Companion" target="ru.mixail_akulov.a50_51_hilt.app.model.settings.SharedPreferencesAppSettings" relationship="INNER_CLASS">
+      <point x="0.0" y="-14.5" />
+      <point x="3525.3989247311897" y="1412.0" />
+      <point x="3355.3124999999995" y="1412.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxFragment" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxViewModel.Factory" relationship="TO_ONE">
+      <point x="59.75" y="-116.0" />
+      <point x="6001.065591397857" y="2366.0" />
+      <point x="6262.565591397857" y="2366.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" target="ru.mixail_akulov.a50_51_hilt.app.model.Success" relationship="CREATE">
+      <point x="-124.33333333333303" y="-137.5" />
+      <point x="5210.229166666667" y="530.0" />
+      <point x="4953.3125" y="530.0" />
+      <point x="4953.3125" y="-8.0" />
+      <point x="5307.6875" y="-8.0" />
+      <point x="-32.25" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.accounts.entities.GetAccountResponseEntity" target="ru.mixail_akulov.a50_51_hilt.app.model.accounts.entities.Account" relationship="CREATE">
+      <point x="0.0" y="-83.0" />
+      <point x="521.0" y="2874.0" />
+      <point x="455.25" y="2874.0" />
+      <point x="60.0" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.InvalidCredentialsException" relationship="CREATE">
+      <point x="-80.5" y="-116.0" />
+      <point x="4112.213642473118" y="1116.0" />
+      <point x="4122.382190860215" y="1116.0" />
+      <point x="4122.382190860215" y="1086.0" />
+      <point x="4502.773924731189" y="1086.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.SettingsAdapter.Listener" relationship="REALIZATION">
+      <point x="-131.66666666666663" y="-72.0" />
+      <point x="4747.270833333333" y="2092.0" />
+      <point x="4378.980376344092" y="2092.0" />
+      <point x="54.0" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.BackendException" target="ru.mixail_akulov.a50_51_hilt.app.model.AppException" relationship="GENERALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="271.49999999999955" y="859.0" />
+      <point x="996.4250672043081" y="859.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesSource" relationship="TO_ONE">
+      <point x="-111.25000000000023" y="-71.5" />
+      <point x="4869.105376344092" y="1422.0" />
+      <point x="4775.6875" y="1422.0" />
+      <point x="4775.6875" y="1392.0" />
+      <point x="3918.088642473118" y="1392.0" />
+      <point x="85.25" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.settings.BoxSettingsDiffCallback" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.entities.BoxAndSettings" relationship="TO_MANY">
+      <point x="0.0" y="-72.0" />
+      <point x="2988.6489247311897" y="1708.0" />
+      <point x="3193.6489247311897" y="1708.0" />
+      <point x="54.25" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.EmptyFieldException" target="ru.mixail_akulov.a50_51_hilt.app.model.Field" relationship="TO_ONE">
+      <point x="49.75" y="-38.5" />
+      <point x="1206.2499999999995" y="849.0" />
+      <point x="2627.463642473118" y="849.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxViewModel.Factory" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxViewModel" relationship="INNER_CLASS">
+      <point x="0.0" y="-27.0" />
+      <point x="6262.565591397857" y="2072.0" />
+      <point x="6057.022043010759" y="2072.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.settings.SharedPreferencesAppSettings" target="ru.mixail_akulov.a50_51_hilt.app.model.settings.AppSettings" relationship="REALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="3355.3124999999995" y="1116.0" />
+      <point x="3926.0239247311893" y="1116.0" />
+      <point x="-41.25" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" target="ru.mixail_akulov.a50_51_hilt.app.model.Error" relationship="CREATE">
+      <point x="-124.33333333333303" y="-137.5" />
+      <point x="5210.229166666667" y="530.0" />
+      <point x="4953.3125" y="530.0" />
+      <point x="4953.3125" y="520.0" />
+      <point x="4786.6875" y="520.0" />
+      <point x="4786.6875" y="12.0" />
+      <point x="4995.4375" y="12.0" />
+      <point x="-36.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpFragment" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseFragment" relationship="GENERALIZATION">
+      <point x="77.0" y="-127.0" />
+      <point x="4343.5625" y="2376.0" />
+      <point x="5312.272043010759" y="2376.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.ConnectionException" target="ru.mixail_akulov.a50_51_hilt.app.model.AppException" relationship="GENERALIZATION">
+      <point x="0.0" y="-27.0" />
+      <point x="921.9999999999995" y="859.0" />
+      <point x="996.4250672043081" y="859.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.BoxViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel" relationship="GENERALIZATION">
+      <point x="99.5" y="-38.5" />
+      <point x="6156.522043010759" y="1698.0" />
+      <point x="6549.175067204309" y="1698.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" relationship="TO_ONE">
+      <point x="-111.25000000000023" y="-71.5" />
+      <point x="4869.105376344092" y="1422.0" />
+      <point x="4775.6875" y="1422.0" />
+      <point x="4775.6875" y="1412.0" />
+      <point x="4192.713642473118" y="1412.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.Result" target="ru.mixail_akulov.a50_51_hilt.app.model.Error" relationship="CREATE">
+      <point x="-50.25" y="-61.0" />
+      <point x="5245.1875" y="52.0" />
+      <point x="4877.6875" y="52.0" />
+      <point x="4877.6875" y="32.0" />
+      <point x="4786.6875" y="32.0" />
+      <point x="4786.6875" y="12.0" />
+      <point x="4995.4375" y="12.0" />
+      <point x="-36.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyFlowSubject" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" relationship="CREATE">
+      <point x="-60.75" y="-71.5" />
+      <point x="5273.8125" y="859.0" />
+      <point x="5241.3125" y="859.0" />
+      <point x="-93.25" y="137.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignInViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignInViewModel.State" relationship="CREATE">
+      <point x="-86.5" y="160.0" />
+      <point x="7499.675067204309" y="2092.0" />
+      <point x="7527.675067204309" y="2092.0" />
+      <point x="-58.5" y="-93.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.ListenerRecord" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" relationship="INNER_CLASS">
+      <point x="87.33333333333303" y="49.5" />
+      <point x="5566.645833333332" y="500.0" />
+      <point x="5489.3125" y="500.0" />
+      <point x="5489.3125" y="530.0" />
+      <point x="5458.895833333333" y="530.0" />
+      <point x="124.33333333333303" y="-137.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignUpViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel" relationship="GENERALIZATION">
+      <point x="0.0" y="-149.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.boxes.BoxesRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.Empty" relationship="CREATE">
+      <point x="111.24999999999977" y="-71.5" />
+      <point x="5091.605376344092" y="1422.0" />
+      <point x="5470.270833333333" y="1422.0" />
+      <point x="5470.270833333333" y="1392.0" />
+      <point x="5620.8125" y="1392.0" />
+      <point x="5620.8125" y="335.0" />
+      <point x="5315.8125" y="335.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.tabs.dashboard.DashboardViewModel" target="ru.mixail_akulov.a50_51_hilt.app.screens.base.BaseViewModel" relationship="GENERALIZATION">
+      <point x="101.0" y="-50.0" />
+      <point x="5142.105376344092" y="1698.0" />
+      <point x="6549.175067204309" y="1698.0" />
+      <point x="0.0" y="116.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.EmptyFieldException" target="ru.mixail_akulov.a50_51_hilt.app.model.AppException" relationship="GENERALIZATION">
+      <point x="-49.75" y="-38.5" />
+      <point x="1106.7499999999995" y="859.0" />
+      <point x="996.4250672043081" y="859.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyFlowSubject" relationship="TO_ONE">
+      <point x="80.5" y="-116.0" />
+      <point x="4273.213642473118" y="1116.0" />
+      <point x="4280.398924731189" y="1116.0" />
+      <point x="4280.398924731189" y="1096.0" />
+      <point x="5329.0625" y="1096.0" />
+      <point x="5329.0625" y="1086.0" />
+      <point x="5273.8125" y="1086.0" />
+      <point x="-60.75" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.base.BaseRetrofitSource" target="ru.mixail_akulov.a50_51_hilt.app.model.ParseBackendResponseException" relationship="CREATE">
+      <point x="0.0" y="-61.0" />
+      <point x="769.9446908602154" y="1106.0" />
+      <point x="640.4999999999995" y="1106.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.accounts.RetrofitAccountsSource" target="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsSource" relationship="REALIZATION">
+      <point x="-32.625" y="-71.5" />
+      <point x="1224.4999999999995" y="1422.0" />
+      <point x="1252.1249999999995" y="1422.0" />
+      <point x="1252.1249999999995" y="1116.0" />
+      <point x="2552.7739247311897" y="1116.0" />
+      <point x="-61.75" y="60.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsSource" relationship="TO_ONE">
+      <point x="80.5" y="-116.0" />
+      <point x="4273.213642473118" y="1116.0" />
+      <point x="4280.398924731189" y="1116.0" />
+      <point x="4280.398924731189" y="1056.0" />
+      <point x="2676.2739247311897" y="1056.0" />
+      <point x="61.75" y="60.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.accounts.RetrofitAccountsSource" target="ru.mixail_akulov.a50_51_hilt.sources.accounts.entities.SignInRequestEntity" relationship="CREATE">
+      <point x="97.875" y="-71.5" />
+      <point x="1354.9999999999995" y="1422.0" />
+      <point x="1509.0624999999995" y="1422.0" />
+      <point x="1509.0624999999995" y="1402.0" />
+      <point x="1385.8124999999995" y="1402.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.ExceptionsKt" target="ru.mixail_akulov.a50_51_hilt.app.model.AuthException" relationship="CREATE">
+      <point x="0.0" y="-27.0" />
+      <point x="2246.3124999999995" y="1106.0" />
+      <point x="2444.2303763440923" y="1106.0" />
+      <point x="2444.2303763440923" y="1046.0" />
+      <point x="3198.6489247311897" y="1046.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.Empty" target="ru.mixail_akulov.a50_51_hilt.app.model.Result" relationship="GENERALIZATION">
+      <point x="30.25" y="-27.0" />
+      <point x="5346.0625" y="227.0" />
+      <point x="5362.4375" y="227.0" />
+      <point x="67.0" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" target="ru.mixail_akulov.a50_51_hilt.app.model.Pending" relationship="CREATE">
+      <point x="-124.33333333333303" y="-137.5" />
+      <point x="5210.229166666667" y="530.0" />
+      <point x="4953.3125" y="530.0" />
+      <point x="4953.3125" y="520.0" />
+      <point x="4867.1875" y="520.0" />
+      <point x="4867.1875" y="52.0" />
+      <point x="4872.4375" y="52.0" />
+      <point x="4872.4375" y="2.0" />
+      <point x="5156.4375" y="2.0" />
+      <point x="-33.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.sources.boxes.entities.GetBoxResponseEntity" target="ru.mixail_akulov.a50_51_hilt.app.model.boxes.entities.Box" relationship="CREATE">
+      <point x="0.0" y="-83.0" />
+      <point x="2467.1874999999995" y="1698.0" />
+      <point x="2259.588642473118" y="1698.0" />
+      <point x="2259.588642473118" y="1402.0" />
+      <point x="2691.3124999999995" y="1402.0" />
+      <point x="-41.5" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.Result" target="ru.mixail_akulov.a50_51_hilt.app.model.Pending" relationship="CREATE">
+      <point x="-50.25" y="-61.0" />
+      <point x="5245.1875" y="52.0" />
+      <point x="4877.6875" y="52.0" />
+      <point x="4877.6875" y="22.0" />
+      <point x="4872.4375" y="22.0" />
+      <point x="4872.4375" y="2.0" />
+      <point x="5156.4375" y="2.0" />
+      <point x="-33.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.views.DashboardItemView.Companion" target="ru.mixail_akulov.a50_51_hilt.app.views.DashboardItemView" relationship="INNER_CLASS">
+      <point x="0.0" y="-27.0" />
+      <point x="7162.647043010759" y="2386.0" />
+      <point x="7239.397043010759" y="2386.0" />
+      <point x="81.75" y="105.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignInViewModel.State" target="ru.mixail_akulov.a50_51_hilt.app.screens.main.auth.SignInViewModel" relationship="INNER_CLASS">
+      <point x="58.5" y="-93.5" />
+      <point x="7644.675067204309" y="2092.0" />
+      <point x="7672.675067204309" y="2092.0" />
+      <point x="86.5" y="160.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.model.accounts.AccountsRepository" target="ru.mixail_akulov.a50_51_hilt.app.model.settings.AppSettings" relationship="TO_ONE">
+      <point x="80.5" y="-116.0" />
+      <point x="4273.213642473118" y="1116.0" />
+      <point x="4280.398924731189" y="1116.0" />
+      <point x="4280.398924731189" y="1056.0" />
+      <point x="4008.5239247311893" y="1056.0" />
+      <point x="41.25" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject" target="ru.mixail_akulov.a50_51_hilt.app.utils.async.LazyListenersSubject.ListenerRecord" relationship="CREATE">
+      <point x="-124.33333333333303" y="-137.5" />
+      <point x="5210.229166666667" y="530.0" />
+      <point x="4953.3125" y="530.0" />
+      <point x="4953.3125" y="520.0" />
+      <point x="5391.979166666666" y="520.0" />
+      <point x="-87.33333333333303" y="49.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6100068176736855" showDependencies="true" x="769.5580175918368" y="1206.4547396420712" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
